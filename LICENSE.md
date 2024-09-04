@@ -3,7 +3,7 @@ Software list and licenses:
 Used tools:
 1.) libgcc (GCC) -> GPL License, exception for linked runtime libraries (LGPL)
 2.) Doxygen  -> GPLv2
-3.) Grpahviz -> EPL 1.0
+3.) Graphviz -> EPL 1.0
 4.) CMake ->  BSD 3
 5.) pugiXML -> MIT
 6.) git -> GPLv2
