@@ -37,6 +37,9 @@ Used tools:
 5.) pugiXML -> MIT
 6.) git -> GPLv2
 7.) QtCreator -> GPLv3
+8.) WSL Windows -> Windows-EULA
+9.) Linux-Kernel (WSL 2) ->  GPLv2
+10.) Ubuntu -> GPL, MIT and BSD
 
 
 
