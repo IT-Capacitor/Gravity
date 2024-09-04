@@ -1,4 +1,23 @@
-Software list and licenses:
+!My Project is a non commercial tool for simulation of diffrent gravity forces on nano objects. !
+
+The License is applied only to the code which was written by me!
+ 
+The Beerware License
+---------------------
+
+As long as you retain this notice, you can do whatever you want with this
+stuff. If we meet some day, and you think this stuff is worth it, you can
+buy me a beer in return.
+
+License Text originally from Poul-Henning Kamp
+
+Project source code owner Konstantin Bomm 
+
+
+
+
+
+Used tools -> Software list and licenses:
 
 Used tools:
 1.) libgcc (GCC) -> GPL License, exception for linked runtime libraries (LGPL)
